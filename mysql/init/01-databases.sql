@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS `application_db`;
+CREATE DATABASE IF NOT EXISTS `dumps_db`;
